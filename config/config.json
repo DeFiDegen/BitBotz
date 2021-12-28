@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x1F4A5fD66798ecb2494CBAf1DB50a33B824e2907",
+  "SCAN_LINK": "https://polygonscan.com/token/0x1f4a5fd66798ecb2494cbaf1db50a33b824e2907",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Billionaire BitBotz",
+  "SYMBOL": "BBB",
+  "MAX_SUPPLY": 1000,
+  "WEI_COST": 25000000000000000000,
+  "DISPLAY_COST": 25,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/billionairebitbotz",
+  "SHOW_BACKGROUND": false
+}

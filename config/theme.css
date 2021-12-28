@@ -1,0 +1,10 @@
+:root {
+  --primary: linear-gradient(#cacaca, #616161);
+  --primary-text: #d1d1d1;
+  --secondary: #000000;
+  --secondary-text: #dee204;
+  --accent: linear-gradient( #888888, #6d6d6d);
+  --accent-text: #d1d1d1;
+  --button: #000000;
+  --button-text: #d1d1d1;
+}
